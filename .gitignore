@@ -1,3 +1,19 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+/logs/
+/out/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Maven ###
+.mvn
+mvnw
+mvnw.*
+
 # Compiled class file
 *.class
 
